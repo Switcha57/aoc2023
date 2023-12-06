@@ -8,7 +8,7 @@ Advent of Code is an annual event where programmers around the world come togeth
 
 ## Objective
 
-The objective of this repository is to earn a star for every challenge. But more than that, it's about learning and growing as a programmer. Advent of Code is a fantastic opportunity to improve problem-solving skills, learn new algorithms, and for me get more comfortable with Python.
+The objective of this repository is to earn a star for every challenge. But more than that, it's about learning and growing as a programmer. Advent of Code is a fantastic opportunity to improve problem-solving skills, learn new algorithms, and for me to get more comfortable with Python.
 
 ## Challenges
 
@@ -19,7 +19,7 @@ The challenges will be added to this repository as they are completed. Stay tune
 While this is primarily a personal learning project, suggestions and improvements are always welcome. Feel free to open an issue or submit a pull request.
 
 ## License
-it it really important ?
+is it really important ?
 This project is licensed under the MIT License.
 
 Happy coding!
