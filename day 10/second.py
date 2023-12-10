@@ -90,14 +90,13 @@ while len(q)>0:
     
     # check number of wall encountered on the left
     leftWall = ["|","J","L"]
-    upWall = ["-","F","L"]
+
     n_lw = 0
-    n_uw=0
+
     for x in range(nw_node[1]):
         if labirinth[nw_node[0]][x] in leftWall:n_lw+=1
-    for x in range(nw_node[0]):
-        if labirinth[x][nw_node[1]] in upWall:n_uw+=1
-    if n_uw%2 and n_lw%2:
+
+    if n_lw%2:
         v+=1
          
     
